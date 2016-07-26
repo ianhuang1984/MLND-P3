@@ -16,7 +16,7 @@ Clustering:
 3. Observe the set of establishments each of the customer segments could best represent.
 
 Conclusion:
-1.  Justify which customer segments found above should perform an A/B Test for this change.
+1.  Justify which customer segments should perform an A/B Test for the change.
 2.  Compare the custering algorithm and number of clusters chosen to the underlying distribution of Hotel/Restaurant/Cafe customers and to Retailer customers.
 3.  Use the clustering algorithm to predict and report if these classifications are as consistent with previous definition of the customer segments.
 
